@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Source\Server.cpp" />
     <ClCompile Include="Source\SimulationProject.cpp" />
   </ItemGroup>
   <ItemGroup>

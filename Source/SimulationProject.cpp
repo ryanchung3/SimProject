@@ -4,9 +4,13 @@
 #include <iostream>
 #include "../Headers/Car.h"
 
-int main()
+int one()
 {
     Car car1;
+    std::cout << car1.getCurrentGear();
+
+
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
